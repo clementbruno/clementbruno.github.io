@@ -1,0 +1,13 @@
+.img-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.about-profile-pic {
+  width: 100px;
+  height: 100px;
+  border-radius: 100%;
+  border: 5px solid #fff;
+  text-align: text-center;
+}
