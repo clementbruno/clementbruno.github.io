@@ -5,7 +5,7 @@ subtitle: Some small tricks and examples to improve your code
 date: "2019-01-22"
 ---
 
-This article was originally posted on [Getaround Tech Blog](https://getaround.tech/ruby-tricks-for-junior-devs/) which is a company I was employed at. It was then featured in the articles' section of [Ruby Weekly](<(https://rubyweekly.com/issues/434)>) 😎. The stack at Getaround Europe was a big Ruby on Rails monolith and most of the logic was handled by the back-end there. Hereafter are a few tips and tricks for developers that I gathered while on the job.
+This article was originally posted on [Getaround Tech Blog](https://getaround.tech/ruby-tricks-for-junior-devs/) which is a company I was employed at. It was then featured in the articles' section of [Ruby Weekly](https://rubyweekly.com/issues/434) 😎. The stack at Getaround Europe was a big Ruby on Rails monolith and most of the logic was handled by the back-end there. Hereafter are a few tips and tricks for developers that I gathered while on the job.
 
 ---
 
