@@ -11,3 +11,17 @@
   border: 5px solid #fff;
   text-align: text-center;
 }
+
+footer,
+.navbar {
+  background-color: #000000;
+
+  .nav-link {
+    color: #adacac !important;
+  }
+}
+
+.bj-link,
+.theme-by.text-muted {
+  color: #ffffff !important;
+}
