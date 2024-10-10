@@ -36,4 +36,8 @@ footer,
   .navbar {
     height: 100px;
   }
+
+  .intro-header {
+    margin-top: 130px;
+  }
 }
