@@ -25,3 +25,15 @@ footer,
 .theme-by.text-muted {
   color: #ffffff !important;
 }
+
+@media (max-width: 560px) {
+  .posts-list {
+    margin-top: 30px;
+  }
+}
+
+@media (max-width: 560px) {
+  .navbar {
+    height: 100px;
+  }
+}
