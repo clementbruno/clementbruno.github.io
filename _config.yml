@@ -10,8 +10,8 @@
 ############################
 
 # Name of website
-title: There is no spoon
-title-img: /assets/img/ascii_art.png
+title: Clement Bruno
+title-img: /assets/img/terminal-logo.png
 
 # Your name to show in the footer
 # author: Clement Bruno
@@ -21,7 +21,7 @@ title-img: /assets/img/ascii_art.png
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About: "about"
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
   #   - Learn markdown: "https://www.markdowntutorial.com/"
@@ -33,8 +33,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-# avatar: "/assets/img/avatar-icon.png"
-avatar: "/assets/img/terminal-logo.png"
+# avatar: "/assets/img/terminal-logo.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: false
@@ -51,11 +50,11 @@ round-avatar: false
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "clmnt.bruno@gmail.com"
+  # email: "clmnt.bruno@gmail.com"
   # rss: true # remove this line if you don't want to show an RSS link at the bottom
   # facebook: deanattali
   github: clementbruno
-  twitter: cbrn_dev
+  # twitter: cbrn_dev
   # patreon: DeanAttali
   # youtube: "@daattali"
   # whatsapp: 15551212
@@ -94,9 +93,9 @@ social-network-links:
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  # facebook: true
-  linkedin: true
+  twitter: false
+  facebook: false
+  linkedin: false
   vk: false
 
 # How to display the link to your website in the footer
@@ -116,7 +115,7 @@ feed_show_excerpt: false
 feed_show_tags: true
 
 # Add a search button to the navbar
-post_search: true
+# post_search: true
 
 # Add a button in the footer to edit the current page. Only works if your website is hosted on GitHub
 edit_page_button: false
